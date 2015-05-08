@@ -1,3 +1,3 @@
 [submodule "rust-ownership-tutorial"]
 	path = rust-ownership-tutorial
-	url = git@git.conifer.me:dwtj/rust-ownership-tutorial.git
+	url = https://github.com/dwtj/rust-ownership-tutorial.git
